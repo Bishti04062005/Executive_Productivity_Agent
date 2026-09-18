@@ -1,0 +1,277 @@
+
+[
+  {
+    "source_id": "MEETING-001",
+    "source_type": "meeting",
+    "source_date": "2026-09-21",
+    "title": "Leadership Sync",
+    "text": "Attendees: Arjun Malhotra, Neha Kapoor, Raghav Sethi, Divya Rao. Neha said the Q3 campaign deck draft was 80% done and she would send it to Arjun for review by Wednesday. Arjun said he had told Raghav he would send the updated vendor list by end of day tomorrow. Raghav raised the Mumbai office renewal paperwork, which needed someone to sign off this week, but ownership was unclear. Divya thought Facilities was responsible but had not seen anyone pick it up. Arjun said to flag it and not assume. Arjun asked Divya to pull the July expense variance report before Thursday's board preparation. Divya said she would have it ready Wednesday evening. Arjun said he needed to personally reconfirm the new Meridian Logistics client call time. Neha said the campaign deck review would realistically be safer on Thursday morning instead of Wednesday, and Arjun acknowledged it."
+  },
+  {
+    "source_id": "CALENDAR-ARJUN",
+    "source_type": "calendar",
+    "source_date": "2026-09-21",
+    "person": "Arjun Malhotra",
+    "text": "Monday 21 September: 9:00–9:35 AM Leadership Sync; 2:00–2:30 PM 1:1 with Neha; 4:00–5:00 PM Blocked. Tuesday 22 September: 11:00 AM–12:00 PM Internal Budget Review; 3:00–3:30 PM Blocked. Wednesday 23 September: 3:00–3:30 PM Call with Meridian Logistics; 6:00–6:15 PM Blocked. Thursday 24 September: 9:00–10:00 AM Board Prep Session; 4:00–5:00 PM Hiring Panel — Sales Associate. Friday 25 September: 10:00–10:30 AM Facilities Check-in; 1:00–2:00 PM Blocked."
+  },
+  {
+    "source_id": "CALENDAR-NEHA",
+    "source_type": "calendar",
+    "source_date": "2026-09-21",
+    "person": "Neha Kapoor",
+    "text": "Monday 21 September: 10:00–11:00 AM Blocked; 2:00–2:30 PM 1:1 with Arjun. Tuesday 22 September: 1:00–2:00 PM Campaign Vendor Call. Wednesday 23 September: 10:00–10:30 AM Deck Prep; 1:00–3:00 PM Blocked. Thursday 24 September: 9:30–10:00 AM Deck Review with Arjun. Friday 25 September: 11:00 AM–12:00 PM Blocked."
+  },
+  {
+    "source_id": "CALENDAR-RAGHAV",
+    "source_type": "calendar",
+    "source_date": "2026-09-21",
+    "person": "Raghav Sethi",
+    "text": "Monday 21 September: 9:00–9:35 AM Leadership Sync; 1:00–2:00 PM Blocked. Tuesday 22 September: 11:00 AM–12:00 PM Internal Budget Review; 3:30–4:00 PM Ops Standup. Wednesday 23 September: 9:00–11:00 AM Blocked. Thursday 24 September: 2:00–3:00 PM Blocked. Friday 25 September: 10:00–10:30 AM Facilities Check-in; 3:00–4:00 PM Blocked."
+  },
+  {
+    "source_id": "CALENDAR-DIVYA",
+    "source_type": "calendar",
+    "source_date": "2026-09-21",
+    "person": "Divya Rao",
+    "text": "Monday 21 September: 2:30–3:00 PM Budget Prep; 4:00–5:00 PM Blocked. Tuesday 22 September: 9:00–9:15 AM Quick Call with Arjun; 11:00 AM–12:00 PM Internal Budget Review. Wednesday 23 September: 1:00–2:00 PM Blocked. Thursday 24 September: 9:00–10:00 AM Board Prep Session; 2:00–3:00 PM Blocked. Friday 25 September: 10:00–11:00 AM Blocked."
+  },
+  {
+    "source_id": "EMAIL-VENDOR-001",
+    "source_type": "email",
+    "source_date": "2026-09-21",
+    "thread": "Vendor List",
+    "from": "raghav.sethi@veridian-corp.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "Following up from the sync — can you send the updated vendor list today?"
+  },
+  {
+    "source_id": "EMAIL-VENDOR-002",
+    "source_type": "email",
+    "source_date": "2026-09-21",
+    "thread": "Vendor List",
+    "from": "arjun.malhotra@veridian-corp.example",
+    "to": "raghav.sethi@veridian-corp.example",
+    "text": "Running behind, will send first thing tomorrow morning instead."
+  },
+  {
+    "source_id": "EMAIL-VENDOR-003",
+    "source_type": "email",
+    "source_date": "2026-09-22",
+    "thread": "Vendor List",
+    "from": "raghav.sethi@veridian-corp.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "No worries, whenever you get a chance today works."
+  },
+  {
+    "source_id": "EMAIL-VENDOR-004",
+    "source_type": "email",
+    "source_date": "2026-09-22",
+    "thread": "Vendor List",
+    "from": "arjun.malhotra@veridian-corp.example",
+    "to": "raghav.sethi@veridian-corp.example",
+    "text": "Sorry, got pulled into board prep — will send by tomorrow (Wednesday) morning for sure."
+  },
+  {
+    "source_id": "EMAIL-VENDOR-005",
+    "source_type": "email",
+    "source_date": "2026-09-23",
+    "thread": "Vendor List",
+    "from": "raghav.sethi@veridian-corp.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "Just checking — still good for this morning?"
+  },
+  {
+    "source_id": "EMAIL-CAMPAIGN-001",
+    "source_type": "email",
+    "source_date": "2026-09-21",
+    "thread": "Q3 Campaign Deck",
+    "from": "neha.kapoor@veridian-corp.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "Deck's coming together, still targeting Wednesday for your review."
+  },
+  {
+    "source_id": "EMAIL-CAMPAIGN-002",
+    "source_type": "email",
+    "source_date": "2026-09-22",
+    "thread": "Q3 Campaign Deck",
+    "from": "neha.kapoor@veridian-corp.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "Heads up — shifting the review to Thursday morning instead of Wednesday, need one more day on the data slides."
+  },
+  {
+    "source_id": "EMAIL-CAMPAIGN-003",
+    "source_type": "email",
+    "source_date": "2026-09-23",
+    "thread": "Q3 Campaign Deck",
+    "from": "arjun.malhotra@veridian-corp.example",
+    "to": "neha.kapoor@veridian-corp.example",
+    "text": "Understood, Thursday morning works. What time exactly?"
+  },
+  {
+    "source_id": "EMAIL-CAMPAIGN-004",
+    "source_type": "email",
+    "source_date": "2026-09-23",
+    "thread": "Q3 Campaign Deck",
+    "from": "neha.kapoor@veridian-corp.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "Let's say 9:30 AM Thursday, before your board prep block."
+  },
+  {
+    "source_id": "EMAIL-CAMPAIGN-005",
+    "source_type": "email",
+    "source_date": "2026-09-24",
+    "thread": "Q3 Campaign Deck",
+    "from": "neha.kapoor@veridian-corp.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "Deck is ready, attaching the draft ahead of our 9:30 review."
+  },
+  {
+    "source_id": "EMAIL-MERIDIAN-001",
+    "source_type": "email",
+    "source_date": "2026-09-21",
+    "thread": "Call Reschedule",
+    "from": "priya.nair@meridianlogistics.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "Our scheduled call this week got bumped from our side — can you propose a new time? We're flexible Tuesday–Thursday afternoons."
+  },
+  {
+    "source_id": "EMAIL-MERIDIAN-002",
+    "source_type": "email",
+    "source_date": "2026-09-22",
+    "thread": "Call Reschedule",
+    "from": "arjun.malhotra@veridian-corp.example",
+    "to": "priya.nair@meridianlogistics.example",
+    "text": "Apologies for the delay — how about Wednesday 3:00 PM?"
+  },
+  {
+    "source_id": "EMAIL-MERIDIAN-003",
+    "source_type": "email",
+    "source_date": "2026-09-22",
+    "thread": "Call Reschedule",
+    "from": "priya.nair@meridianlogistics.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "Wednesday 3 PM works on our end, confirmed."
+  },
+  {
+    "source_id": "EMAIL-MERIDIAN-004",
+    "source_type": "email",
+    "source_date": "2026-09-23",
+    "thread": "Call Reschedule",
+    "from": "priya.nair@meridianlogistics.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "Quick check — still on for 3 PM today?"
+  },
+  {
+    "source_id": "EMAIL-MERIDIAN-005",
+    "source_type": "email",
+    "source_date": "2026-09-23",
+    "thread": "Call Reschedule",
+    "from": "arjun.malhotra@veridian-corp.example",
+    "to": "priya.nair@meridianlogistics.example",
+    "text": "Yes, confirmed, see you at 3."
+  },
+  {
+    "source_id": "EMAIL-EXPENSE-001",
+    "source_type": "email",
+    "source_date": "2026-09-21",
+    "thread": "Expense Variance Report",
+    "from": "divya.rao@veridian-corp.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "Starting on the July variance numbers, targeting Thursday morning for board prep as discussed."
+  },
+  {
+    "source_id": "EMAIL-EXPENSE-002",
+    "source_type": "email",
+    "source_date": "2026-09-22",
+    "thread": "Expense Variance Report",
+    "from": "arjun.malhotra@veridian-corp.example",
+    "to": "divya.rao@veridian-corp.example",
+    "text": "Actually, can I get it by Wednesday evening instead? Want time to review before Thursday."
+  },
+  {
+    "source_id": "EMAIL-EXPENSE-003",
+    "source_type": "email",
+    "source_date": "2026-09-22",
+    "thread": "Expense Variance Report",
+    "from": "divya.rao@veridian-corp.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "Wednesday evening is tight but doable, I'll prioritize it."
+  },
+  {
+    "source_id": "EMAIL-EXPENSE-004",
+    "source_type": "email",
+    "source_date": "2026-09-23",
+    "thread": "Expense Variance Report",
+    "from": "divya.rao@veridian-corp.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "Report attached, sent as promised."
+  },
+  {
+    "source_id": "EMAIL-EXPENSE-005",
+    "source_type": "email",
+    "source_date": "2026-09-23",
+    "thread": "Expense Variance Report",
+    "from": "arjun.malhotra@veridian-corp.example",
+    "to": "divya.rao@veridian-corp.example",
+    "text": "Got it, thank you — exactly what I needed before tomorrow."
+  },
+  {
+    "source_id": "EMAIL-LEASE-001",
+    "source_type": "email",
+    "source_date": "2026-09-21",
+    "thread": "Mumbai Office Lease Renewal",
+    "from": "facilities@veridian-corp.example",
+    "to": "All Staff",
+    "text": "Reminder: the Mumbai office lease renewal requires an authorized signature by Friday, 25 September."
+  },
+  {
+    "source_id": "EMAIL-LEASE-002",
+    "source_type": "email",
+    "source_date": "2026-09-22",
+    "thread": "Mumbai Office Lease Renewal",
+    "from": "raghav.sethi@veridian-corp.example",
+    "to": "arjun.malhotra@veridian-corp.example, divya.rao@veridian-corp.example",
+    "text": "Following up from the sync — has anyone confirmed who's signing off on the Mumbai renewal? Don't think it's been assigned."
+  },
+  {
+    "source_id": "EMAIL-LEASE-003",
+    "source_type": "email",
+    "source_date": "2026-09-23",
+    "thread": "Mumbai Office Lease Renewal",
+    "from": "divya.rao@veridian-corp.example",
+    "to": "raghav.sethi@veridian-corp.example, arjun.malhotra@veridian-corp.example",
+    "text": "Not on my end — I believe this typically sits with Facilities directly, not us."
+  },
+  {
+    "source_id": "EMAIL-LEASE-004",
+    "source_type": "email",
+    "source_date": "2026-09-24",
+    "thread": "Mumbai Office Lease Renewal",
+    "from": "facilities@veridian-corp.example",
+    "to": "All Staff",
+    "text": "Second reminder: signature is still pending. Deadline is Friday, 25 September, end of day."
+  },
+  {
+    "source_id": "EMAIL-LEASE-005",
+    "source_type": "email",
+    "source_date": "2026-09-24",
+    "thread": "Mumbai Office Lease Renewal",
+    "from": "raghav.sethi@veridian-corp.example",
+    "to": "arjun.malhotra@veridian-corp.example",
+    "text": "This is now one day out and still unowned — can you confirm who's handling it?"
+  },
+  {
+    "source_id": "VOICE-001",
+    "source_type": "voice_note",
+    "source_date": "2026-09-21",
+    "speaker": "Arjun Malhotra",
+    "text": "Quick note to self — need to get Raghav that vendor list, I think I said today but it might slip to tomorrow morning, remind me. Also still haven't heard back on the Mumbai lease thing, someone needs to own that, I don't think it's me."
+  },
+  {
+    "source_id": "VOICE-002",
+    "source_type": "voice_note",
+    "source_date": "2026-09-23",
+    "speaker": "Arjun Malhotra",
+    "text": "Reminder — expense variance report from Divya needs to be in my hands by Wednesday evening, not Thursday, I want time to go through it before board prep. Also Meridian call — I owe Priya a time, need to lock that in today."
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "source_id": "MEETING-001",
+    "source_type": "meeting",
+    "source_date": "2026-09-21",
+    "text": "I told Raghav I'd send him the updated vendor list. I'll get that to him by end of day tomorrow."
+  },
+  {
+    "source_id": "MEETING-002",
+    "source_type": "meeting",
+    "source_date": "2026-09-21",
+    "text": "The Mumbai office renewal paperwork needs someone to sign off this week. Not sure whose desk that's on right now."
+  },
+  {
+    "source_id": "EMAIL-001",
+    "source_type": "email",
+    "sender": "Raghav",
+    "subject": "Vendor List Update",
+    "content": "Arjun, please send the updated vendor list by tomorrow morning."
+  },
+  {
+    "source_id": "EMAIL-002",
+    "source_type": "email",
+    "sender": "Neha",
+    "subject": "Campaign Deck",
+    "content": "Neha will prepare the Q3 campaign deck for Arjun's review by Thursday at 9:30 AM."
+  },
+  {
+    "source_id": "EMAIL-003",
+    "source_type": "email",
+    "sender": "Facilities",
+    "subject": "Lease Renewal",
+    "content": "The Mumbai office lease renewal needs an authorized signature by Friday. The owner is not confirmed."
+  }
+]
